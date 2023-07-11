@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fateme Abbaspour
 - 👀 I’m interested in Network and security
-- 🌱 I’m currently learning CCNA, Switching and routing and Firewall
 - 💞️ I’m looking to collaborate on Security Project, CTF event, and everything about Networking
 
 <!---
